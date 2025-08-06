@@ -10,7 +10,6 @@ MS Access – to build tables, define relationships, and manage data
 
 SQL (Queries in Access) – for filtering, sorting, and joining data
 
-Forms & Reports – for user interaction and data presentation
+Forms & Reports – for user interaction and data presentation Data. 
 
-Data.
 Technologies: MS Access, SQL (Access Queries), Forms, Reports, Data Modeling
